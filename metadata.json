@@ -1,0 +1,6 @@
+{
+  "name": "3D Perspective Card Slider",
+  "description": "An interactive, visually polished 3D perspective card fan and accordion slider with smooth transitions and auto-play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
